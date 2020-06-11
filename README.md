@@ -31,4 +31,4 @@ MaxPool2D is used for Pooling
 Input layer for the artificial neural network is used.
 Keras is used for flattening
 25 epochs have been used in the artifical neural network.
-The accuracy of the artifical network is 14.7 
+The accuracy of the artifical network is 47.1 
