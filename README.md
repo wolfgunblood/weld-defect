@@ -19,7 +19,8 @@ Tensorflow and Keras are imported to implement the CNNs.
 First Input image is taken and convolutional layer and sequential is added.
 Then second convultional layer is added.
 
-MaxPool2D is used for Poooling 
+MaxPool2D is used for Pooling 
+
 (Pooling layers provide an approach to down sampling feature maps by summarizing the presence of features in patches of the feature map. Two common pooling methods are average pooling and max pooling that summarize the average presence of a feature and the most activated presence of a feature respectively.)
 
 Input layer for the artificial neural network is used.
